@@ -1,0 +1,7 @@
+{
+  "name": "GithubUser",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
